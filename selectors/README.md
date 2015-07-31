@@ -1,6 +1,6 @@
 See http://www.w3.org/TR/selectors/.
 
-## Structural pseudo-class
+## Structural pseudo-classes
 
 http://www.w3.org/TR/selectors/#structural-pseudos
 
